@@ -1,5 +1,5 @@
 {
-  "name": "push4ck",
+  "author": "push4ck",
   "dependencies": {
     "express": "^4.14.0"
   },
